@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qhAaBQY4Ty98k9f0BGIWAYUqLN2Z+FaKvyT0MVz29AuC1FtgH9dNw49xGlu5CnpvmNZYav5Qh7JYoyrRs1reQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Spare8\\Desktop\\ProjectsForJuniorMind\\Recursion\\TowerOfHanoi\\TowerOfHanoi\\TowerOfHanoi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Spare8\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\6.0.0\\microsoft.codeanalysis.netanalyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\Spare8\\.nuget\\packages\\roslynator.analyzers\\3.3.0\\roslynator.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\Spare8\\.nuget\\packages\\sonaranalyzer.csharp\\8.34.0.42011\\sonaranalyzer.csharp.8.34.0.42011.nupkg.sha512",
+    "C:\\Users\\Spare8\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
