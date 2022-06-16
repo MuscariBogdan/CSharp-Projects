@@ -1,0 +1,14 @@
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.csproj.AssemblyReference.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.AssemblyInfoInputs.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.AssemblyInfo.cs
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.csproj.CoreCompileInputs.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\bin\Debug\netcoreapp3.1\RunningContest.exe
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\bin\Debug\netcoreapp3.1\RunningContest.deps.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\bin\Debug\netcoreapp3.1\RunningContest.runtimeconfig.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\bin\Debug\netcoreapp3.1\RunningContest.runtimeconfig.dev.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\bin\Debug\netcoreapp3.1\RunningContest.dll
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\bin\Debug\netcoreapp3.1\RunningContest.pdb
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.dll
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.pdb
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\RunningContest\RunningContest\obj\Debug\netcoreapp3.1\RunningContest.genruntimeconfig.cache

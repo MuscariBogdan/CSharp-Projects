@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNWDyxRfl2wz2eW0Q07rntuPjrvKt3JFZtaBTYqL6hrsOLRHjxBqsDrFnl1fBkTsl2OKUwr/lCsUc757EPzWTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IT\\Desktop\\JuniorMind\\Projects\\RunningContest\\RunningContest\\RunningContest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\roslynator.analyzers\\3.0.0\\roslynator.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\sonaranalyzer.csharp\\8.16.0.25740\\sonaranalyzer.csharp.8.16.0.25740.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
