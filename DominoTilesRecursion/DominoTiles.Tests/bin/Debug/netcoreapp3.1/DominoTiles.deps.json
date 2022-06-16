@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DominoTiles/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.NetAnalyzers": "6.0.0",
+          "Roslynator.Analyzers": "4.0.0",
+          "SonarAnalyzer.CSharp": "8.34.0.42011",
+          "StyleCop.Analyzers": "1.1.118"
+        },
+        "runtime": {
+          "DominoTiles.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.NetAnalyzers/6.0.0": {},
+      "Roslynator.Analyzers/4.0.0": {},
+      "SonarAnalyzer.CSharp/8.34.0.42011": {},
+      "StyleCop.Analyzers/1.1.118": {}
+    }
+  },
+  "libraries": {
+    "DominoTiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.NetAnalyzers/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjG06LMeOADNUeCUaklOfVgrnVkLy80H5PVll4QHDUXv+C+6G9rHczrNdWjfb3xKv3Ts9s4UsP6J2ZWe52Gz4Q==",
+      "path": "microsoft.codeanalysis.netanalyzers/6.0.0",
+      "hashPath": "microsoft.codeanalysis.netanalyzers.6.0.0.nupkg.sha512"
+    },
+    "Roslynator.Analyzers/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5/0QTvFyQ+oLqg15p9BW0c4S3XG37218/MTWy/6ez/Rxl4n8rGgs+9udWFDY+gRaA6s6f76EEtZavtQFngmxHA==",
+      "path": "roslynator.analyzers/4.0.0",
+      "hashPath": "roslynator.analyzers.4.0.0.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/8.34.0.42011": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OSWlrOapKdaFrzJPe7zPG5yXcL50n5kkcu3TmDTOvQnGWA5mJgvEOt/tR8qWo6xsTuL02MQvXvGo1oNE6A2n4g==",
+      "path": "sonaranalyzer.csharp/8.34.0.42011",
+      "hashPath": "sonaranalyzer.csharp.8.34.0.42011.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\bin\Debug\netcoreapp3.1\DominoTiles.exe
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\bin\Debug\netcoreapp3.1\DominoTiles.deps.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\bin\Debug\netcoreapp3.1\DominoTiles.runtimeconfig.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\bin\Debug\netcoreapp3.1\DominoTiles.runtimeconfig.dev.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\bin\Debug\netcoreapp3.1\DominoTiles.dll
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\bin\Debug\netcoreapp3.1\DominoTiles.pdb
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.csproj.AssemblyReference.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.AssemblyInfoInputs.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.AssemblyInfo.cs
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.csproj.CoreCompileInputs.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.dll
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.pdb
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Recursion\DominoTiles\DominoTiles\obj\Debug\netcoreapp3.1\DominoTiles.genruntimeconfig.cache
