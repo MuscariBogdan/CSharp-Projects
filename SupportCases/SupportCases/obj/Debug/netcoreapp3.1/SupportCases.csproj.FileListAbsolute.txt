@@ -1,0 +1,14 @@
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.exe
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.deps.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.runtimeconfig.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.runtimeconfig.dev.json
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.dll
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.pdb
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.csproj.AssemblyReference.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.AssemblyInfoInputs.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.AssemblyInfo.cs
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.csproj.CoreCompileInputs.cache
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.dll
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.pdb
+C:\Users\Spare8\Desktop\ProjectsForJuniorMind\Cautare si ordonare\SupportCases\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.genruntimeconfig.cache
